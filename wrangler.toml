@@ -2,5 +2,5 @@ name = "kiss-worker"
 main = "src/index.js"
 compatibility_date = "2023-07-28"
 kv_namespaces = [
-    { binding = "KV", id = "01d3a47d26ca4732b4e6189b4d095ffe", preview_id = "01d3a47d26ca4732b4e6189b4d095ffe" }
+    { binding = "KV", id = "78fafb98f6f24e7b80febe18e016dc03", preview_id = "78fafb98f6f24e7b80febe18e016dc03" }
 ]
